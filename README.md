@@ -1,2 +1,2 @@
 # Project1
-#it is netflix page made with HTML,CSS.
+#it is netflix page made with HTML and CSS.
